@@ -54,7 +54,6 @@ Power BI Desktop (Dashboard design & modeling)
 
 Excel/CSV files (Data source)
 
-GitHub (Version control & portfolio showcase)
 
 📌 Key Insights
 
@@ -70,6 +69,4 @@ Download the .pbix file from this repository.
 
 Open it in Power BI Desktop.
 
-Use slicers and drill-through features to explore the insights.
-
-📷 Dashboard Preview
+Use slicers and drill-through features to explore the insights
